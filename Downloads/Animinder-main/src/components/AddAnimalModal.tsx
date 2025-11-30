@@ -500,6 +500,7 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.gray100,
     ...Shadows.small,
   },
+  
   imageContainer: {
     width: '100%',
     height: '100%',
